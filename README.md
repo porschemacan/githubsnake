@@ -2,7 +2,7 @@
 
 play snake on github home page...
 
-![](picture/playing.png)
+![](picture/playing.gif)
 
 ## install
 
